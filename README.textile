@@ -8,7 +8,7 @@ h3. First Clone the Repository
 
 <pre>
 user:~$ git clone https://github.com/tenkosky/branden-s-mom.git
-user:~$ cd branden-s-mom
+user:~$ cd branden-slides
 </pre>
 
 h3. Download MathJax
